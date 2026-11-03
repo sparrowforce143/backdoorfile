@@ -29,7 +29,8 @@ gem install lolcat
 Verification: Git, Figlet, Ruby, and Lolcat install successfully in your system.
 Step 3: Clone the Repository
 ```
-git clone [https://github.com/sparrowforce143/backdoorfile.git](https://github.com/sparrowforce143/backdoorfile.git)
+git clone https://github.com/sparrowforce143/backdoorfile.git
+
 ```
 Verification: The repository folder downloads completely to your local storage without interruption.
 Step 4: Navigate to the Directory
