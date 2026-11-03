@@ -41,13 +41,13 @@ cd backdoorfile
 Verification: Your terminal path successfully changes to the cloned backdoorfile folder.
 Step 5: Grant Execution Permissions
 ```
-chmod +x sparrow_backup.sh
+chmod +x *
 ```
 
 Verification: The script file gains executable permissions to run smoothly.
 Step 6: Run the Tool
 ```
-./sparrow_backup.sh
+./advance.sh
 ```
 
 Verification: The animated SPARROW banner appears on your terminal screen with color-cycling effects.
